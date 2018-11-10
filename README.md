@@ -101,6 +101,10 @@ This project is licensed under the MIT License.
 
 * [@jimen0](https://github.com/jimen0) for helping getting me started with GO
   
+## ToDo
+
+* Add a regex option to extract the sources faster then parsing the HTML
+  
     
 ---
     
