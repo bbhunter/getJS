@@ -61,12 +61,12 @@ If you would like the output to be in JSON format, you can combine it with [@Tom
 $ getJS -url=https://poc-server.com -plain | tojson
 ```  
   
-To feed urls from a file use:  
+To feed urls from a file, use:  
 ```bash
 $ getJS -input=domains.txt
 ```  
   
-To save the results to a file, and don't display anything, use:  
+To save the results to a file, use:  
 ```bash
 $ getJS -url=https://poc-server.com -output=results.txt
 ```  
